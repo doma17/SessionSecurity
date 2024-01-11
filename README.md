@@ -6,7 +6,7 @@ Security 설정
 Spring Security에서의 핵심 설정은 SecurityFilterChain을 구성하는 것입니다. 
 다양한 보안 기능을 설정해보고 다음과 같은 구성을 공부해봤습니다.
 스프링은 버전에 따라 구현 방식이 변경되는데
-시큐리티의 경우 특히 세부 버전별로 구현 방법이 많이 다르기 때문에 버전 마다 구현 특징을 확인해야 한다.
+시큐리티의 경우 특히 세부 버전별로 구현 방법이 많이 다르기 때문에 버전 마다 구현 특징을 확인해야 합니다.
 [Spring Security Reference](https://docs.spring.io/spring-security/reference/6.1-SNAPSHOT/index.html)
 
 
